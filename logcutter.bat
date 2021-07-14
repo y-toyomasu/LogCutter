@@ -1,0 +1,2 @@
+python logcutter.py
+pause 
