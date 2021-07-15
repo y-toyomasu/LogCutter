@@ -10,7 +10,7 @@ ext = '.log'
 #処理対象サブディレクトリ名
 src_dir = '.'
 #処理結果格納用サブディレクトリ名
-kekka_dir = './処理結果'
+kekka_dir = './processed'
 #分割する行を判定する文字列定義
 icchi_list = [
     '# sh',
