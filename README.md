@@ -1,3 +1,5 @@
+[English](https://github.com/y-toyomasu/LogCutter/blob/main/README.md#whats-this)
+
 # LogCutter
 Cisco機器のshowコマンドが複数実行されているログファイルを、各showコマンドごとに分割します。
 
