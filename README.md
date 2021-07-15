@@ -1,7 +1,7 @@
 [English](https://github.com/y-toyomasu/LogCutter/blob/main/README.md#whats-this)
 
 # LogCutter
-Cisco機器のshowコマンドが複数実行されているログファイルを、各showコマンドごとに分割します。
+Cisco機器等のshowコマンドが複数実行されているログファイルを、各showコマンドごとに分割します。
 
 # 使い方
 ## Windows
@@ -39,7 +39,7 @@ Windows10 Python3.9 ( Microsoft Store からインストール )
 # 
 
 # What's This
-LogCutter divides the log file in which multiple show commands of Cisco equipment are executed for each show command.
+LogCutter divides the log file in which multiple show commands of Cisco (or Cisco like ) equipment are executed for each show command.
 
 # How to use
 ## Windows
