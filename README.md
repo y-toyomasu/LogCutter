@@ -11,7 +11,9 @@ Cisco機器のshowコマンドが複数実行されているログファイル�
 Windows10 Python3.9 ( Microsoft Store からインストール )
 
 
-#LogCutter
+# 
+
+# What's This
 LogCutter divides the log file in which multiple show commands of Cisco equipment are executed for each show command.
 
 # How to use
